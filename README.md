@@ -1,0 +1,1 @@
+# flare-heat-flux-calculator

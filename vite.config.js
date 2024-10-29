@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/heat-flux-calculator/'
+  base: '/flare-heat-flux-calculator/' // This should match your repository name exactly
 })
